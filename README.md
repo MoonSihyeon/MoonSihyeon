@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=footer&text=텍스트&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=footer&text=텍스트&fontSize=텍스트크기" />
 <!--
 **MoonSihyeon/MoonSihyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
